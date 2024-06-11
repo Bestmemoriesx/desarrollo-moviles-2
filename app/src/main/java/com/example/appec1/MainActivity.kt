@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             AppEc1Theme {
-                ejercicio2()
+                ejercicio3()
 
             }
         }
